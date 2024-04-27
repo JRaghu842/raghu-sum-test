@@ -1,0 +1,22 @@
+{
+  "name": "raghu-sum-test",
+  "version": "1.0.0",
+  "description": "a package to find sum of 2 number",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRaghu842/raghu-sum-test.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "raghavendra",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JRaghu842/raghu-sum-test/issues"
+  },
+  "homepage": "https://github.com/JRaghu842/raghu-sum-test#readme"
+}
